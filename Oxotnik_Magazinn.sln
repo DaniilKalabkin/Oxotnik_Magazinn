@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oxotnik_Magazinn", "Oxotnik_Magazinn\Oxotnik_Magazinn.csproj", "{623B7BBA-BF4C-4F7B-98F4-512B3CB3CCE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{623B7BBA-BF4C-4F7B-98F4-512B3CB3CCE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{623B7BBA-BF4C-4F7B-98F4-512B3CB3CCE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{623B7BBA-BF4C-4F7B-98F4-512B3CB3CCE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{623B7BBA-BF4C-4F7B-98F4-512B3CB3CCE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FA7DC1D-91C1-45E7-ADC4-3C6F5FDA78C7}
+	EndGlobalSection
+EndGlobal
