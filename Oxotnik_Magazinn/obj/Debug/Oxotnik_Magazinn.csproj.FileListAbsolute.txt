@@ -1,0 +1,11 @@
+C:\Users\Gigabyte\source\repos\Oxotnik_Magazinn\Oxotnik_Magazinn\bin\Debug\Oxotnik_Magazinn.exe.config
+C:\Users\Gigabyte\source\repos\Oxotnik_Magazinn\Oxotnik_Magazinn\bin\Debug\Oxotnik_Magazinn.exe
+C:\Users\Gigabyte\source\repos\Oxotnik_Magazinn\Oxotnik_Magazinn\bin\Debug\Oxotnik_Magazinn.pdb
+C:\Users\Gigabyte\source\repos\Oxotnik_Magazinn\Oxotnik_Magazinn\obj\Debug\Oxotnik_Magazinn.csprojAssemblyReference.cache
+C:\Users\Gigabyte\source\repos\Oxotnik_Magazinn\Oxotnik_Magazinn\obj\Debug\Oxotnik_Magazinn.Form1.resources
+C:\Users\Gigabyte\source\repos\Oxotnik_Magazinn\Oxotnik_Magazinn\obj\Debug\Oxotnik_Magazinn.Properties.Resources.resources
+C:\Users\Gigabyte\source\repos\Oxotnik_Magazinn\Oxotnik_Magazinn\obj\Debug\Oxotnik_Magazinn.csproj.GenerateResource.cache
+C:\Users\Gigabyte\source\repos\Oxotnik_Magazinn\Oxotnik_Magazinn\obj\Debug\Oxotnik_Magazinn.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\source\repos\Oxotnik_Magazinn\Oxotnik_Magazinn\obj\Debug\Oxotnik_Magazinn.exe
+C:\Users\Gigabyte\source\repos\Oxotnik_Magazinn\Oxotnik_Magazinn\obj\Debug\Oxotnik_Magazinn.pdb
+C:\Users\Gigabyte\source\repos\Oxotnik_Magazinn\Oxotnik_Magazinn\obj\Debug\Oxotnik_Magazinn.Form2.resources
